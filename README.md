@@ -1,26 +1,26 @@
 # DeepSeek 中文官网、网页版入口、下载及使用指南~ | DeepSeek 中文教程攻略 （2025年9月更新）
 
-> **更新时间：2025/09/09**    
+> **更新时间：2025/09/21**    
 
-轻松使用 [**DeepSeek 网页版**](https://chat.lanjingai.org)，享受 **快速、稳定、不卡顿** 的体验，支持 **DeepSeek R1 满血版**~
+轻松使用 [**DeepSeek 网页版**](https://ai.lanjingai.org)，享受 **快速、稳定、不卡顿** 的体验，支持 **DeepSeek R1 满血版**~
 
-本指南提供全面的 **DeepSeek 使用教程指南**，包括 [**DeepSeek 官网入口**](https://chat.lanjingai.org)、[**DeepSeek 网页版**](https://xsimplechat.com)、[**DeepSeek 下载**](https://chat.lanjingai.org) 和 [**DeepSeek 平替网站**](https://chat.yixiaai.com)，助力顺畅使用 DeepSeek~
+本指南提供全面的 **DeepSeek 使用教程指南**，包括 [**DeepSeek 官网入口**](https://ai.lanjingai.org)、[**DeepSeek 网页版**](https://xsimplechat.com)、[**DeepSeek 下载**](https://ai.lanjingai.org) 和 [**DeepSeek 平替网站**](https://chat.yixiaai.com)，助力顺畅使用 DeepSeek~
 
 **DeepSeek 官网入口**：[chat.deepseek.com](https://chat.deepseek.com)   
 **DeepSeek 高速稳定版**：[chat.yixiaai.com](https://xsimplechat.com)   
-**DeepSeek 满血版**：[chat.lanjingai.org](https://chat.lanjingai.org)
+**DeepSeek 满血版**：[ai.lanjingai.org](https://ai.lanjingai.org)
 
 ---
 
 ## DeepSeek 是什么？
-[**DeepSeek**](https://chat.lanjingai.org) 是由中国AI公司深度求索（DeepSeek）自主研发的AI大模型，以其开源、轻量化和强大的多场景能力广受关注。   
+[**DeepSeek**](https://ai.lanjingai.org) 是由中国AI公司深度求索（DeepSeek）自主研发的AI大模型，以其开源、轻量化和强大的多场景能力广受关注。   
 最新发布的 [**DeepSeek R1 满血版**](https://xsimplechat.com) 不仅在性能上媲美 OpenAI 的 o1、o3，且以对手 3% 的超低成本实现了这一突破。   
 应用场景非常广泛，如：**智能对话**、**AI 搜索**、**文件处理**、**准确翻译**、**智能解题**、**创意写作**、**高效编程**~
 
 ---
 
 ## DeepSeek 中文官网
-* **DeepSeek 网页版**：[官网（总是繁忙）](https://www.deepseek.com/) 、 [🔥官网平替（快速稳定）](https://chat.lanjingai.org)
+* **DeepSeek 网页版**：[官网（总是繁忙）](https://www.deepseek.com/) 、 [🔥官网平替（快速稳定）](https://ai.lanjingai.org)
 * **DeepSeek 客户端**：[访问](https://download.deepseek.com/app/) 、 [下载（👆右上角）](https://xsimplechat.com)
 * **DeepSeek API**：[访问](https://platform.deepseek.com/)
 * **服务器繁忙？**[查看状态](https://status.deepseek.com/)
@@ -29,7 +29,7 @@
 
 ## DeepSeek 网页版（官方平替）
 * **🔥AI智慧岛**：[chat.deepseek-free.org](https://chat.yixiaai.com/) - **DeepSeek 网页版**，支持 **DeepSeek R1 满血版**、R1-70B、V3 模型
-* **🔥蓝鲸AI：**[chat.lanjingai.org](https://chat.lanjingai.org/) - **DeepSeek高速版**，支持DeepSeek、ChatGPT 和 Claude、Grok 最好的模型
+* **🔥蓝鲸AI：**[ai.lanjingai.org](https://ai.lanjingai.org/) - **DeepSeek高速版**，支持DeepSeek、ChatGPT 和 Claude、Grok 最好的模型
 * **🔥极简AI**：[xsimplechat.com](https://xsimplechat.com/) - **DeepSeek 高速版**，支持 DeepSeek、ChatGPT 和 Claude 最好的模型
 * **秘塔 AI**：[访问](https://metaso.cn/)
 * **纳米 AI**：[访问](https://www.n.cn/)
